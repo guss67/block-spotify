@@ -1,4 +1,3 @@
-# block-spotify
 # Block Spotify Ads
 0.0.0.0 adclick.g.doublecklick.net
 0.0.0.0 adeventtracker.spotify.com
