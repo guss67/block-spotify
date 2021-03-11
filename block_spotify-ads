@@ -54,3 +54,70 @@ heads-fa.spotify.com
 video-akp-cdn-spotify-com.akamaized.net
 video.fath2-1.fna.fbcdn.net
 140.1.101.151.in-addr.arpa
+
+#Ad triggering:
+heads-ak.spotify.com.edgesuite.net
+heads-akp.spotify.com.edgesuite.net
+heads4-ak.spotify.com.edgesuite.net
+heads4-akp.spotify.com.edgesuite.net
+
+#Audio ads:
+audio-ak.spotify.com.edgesuite.net
+audio-ake.spotify.com.edgesuite.net
+audio-akp.spotify.com.edgesuite.net
+audio4-ak.spotify.com.edgesuite.net
+audio4-akp.spotify.com.edgesuite.net
+
+#Video ads:
+video-fa.scdn.co
+video-fa.cdn.spotify.com
+video-fa-b.cdn.spotify.com
+
+#Little snitch 2020 Blocklist
+sentry.io
+redirector.gvt1.com
+sn-4vguioxu-n3be.gvt1.com
+sn-4vguioxu-n3bl.gvt1.com
+audio-sp-ams.spotifycdn.net
+adservice.google.gr
+adservice.google.com
+dntcl.qualaroo.com
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+9ab16611b9c098e4d3e74987a7a3d194.safeframe.googlesyndication.com
+safeframe.googlesyndication.com
+scontent-ams4-1.xx.fbcdn.net
+scontent-frt3-1.xx.fbcdn.net
+scontent.flux1-1.fna.fbcdn.net
+platform-lookaside.fbsbx.com
+s3.amazonaws.com
+www.googletagservices.com
+adeventtracker.spotify.com
+pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
+
+
+#Little snitch 2020 Whitelist
+#Spotify Helper
+#spclient.wg.spotify.com
+#apresolve.spotify.com
+#i.scdn.co
+#dailymix-images.scdn.co
+#newjams-images.scdn.co
+#thisis-images.scdn.co
+#o.scdn.co
+#seeded-session-images.scdn.co
+#daily-mix.scdn.co
+
+#Little snitch 2020 Whitelist
+#dealer.spotify.com
+#spclient.wg.spotify.com
+
+#****-accesspoint-*-****.ap.spotify.com
+#guc3-accesspoint-e-wqtk.ap.spotify.com
+#gew1-accesspoint-e-t1mt.ap.spotify.com
+
+#******-ak-spotify-com.akamaized.net
+#audio4-ak-spotify-com.akamaized.net   unknown
+
