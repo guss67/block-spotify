@@ -1,3 +1,43 @@
+#access points white-list
+#g***-accesspoint-e-****.ap.spotify.com
+#gew1-accesspoint-e-j77g.ap.spotify.com    #zero use
+#gew1-accesspoint-e-c43f.ap.spotify.com    #zero use
+#gew1-accesspoint-e-gzvw.ap.spotify.com    #some use
+
+#grey-list unknown
+#gew1-accesspoint-e-fdn2.ap.spotify.com    #some use
+#gew1-accesspoint-e-m11d.ap.spotify.com    #some use
+#gew1-accesspoint-e-1rkb.ap.spotify.com    #some use
+#gew1-accesspoint-c-d363.ap.spotify.com    #some use
+#gew1-accesspoint-e-kw4q.ap.spotify.com    #some use
+#gew1-accesspoint-e-k177.ap.spotify.com    #some use
+#guc3-accesspoint-e-bnq8.ap.spotify.com    #some use
+#gew1-accesspoint-e-dnm1.ap.spotify.com    #some use
+#guc3-accesspoint-e-nv5h.ap.spotify.com    #some use
+
+#N/A unknown
+#gew1-accesspoint-e-cwzj.ap.spotify.com    #some use
+#gew1-accesspoint-e-k275.ap.spotify.com    #some use
+#gew1-accesspoint-e-twjs.ap.spotify.com    #zero use
+
+#black-list
+gew1-accesspoint-e-mbs8.ap.spotify.com
+gew1-accesspoint-e-8626.ap.spotify.com
+gew1-accesspoint-e-zr46.ap.spotify.com
+gew1-accesspoint-e-065l.ap.spotify.com
+gew1-accesspoint-e-3l51.ap.spotify.com
+
+#inactivity requests
+gew1-accesspoint-e-mbs8.ap.spotify.com
+gew1-accesspoint-e-8626.ap.spotify.com
+gew1-accesspoint-e-zr46.ap.spotify.com
+gew1-accesspoint-e-9rhb.ap.spotify.com
+gew1-accesspoint-e-9vh4.ap.spotify.com
+gew1-accesspoint-e-h9d3.ap.spotify.com
+#inactive suspicious
+gew1-accesspoint-e-0648.ap.spotify.com
+
+
 
 #BLOCK
 upgrade.spotify.com
