@@ -1,0 +1,31 @@
+#Spotify WHITE-LIST
+spclient.wg.spotify.com
+dealer.spotify.com
+ap.spotify.com
+
+#unknown whitelist
+adeventtracker.spotify.com
+talos.adman.gr
+
+#audio sources whitelist
+audio4-ak-spotify-com.akamaized.net
+
+# *.scdn.co whitelist
+seeded-session-images.scdn.co
+newjams-images.scdn.co
+dailymix-images.scdn.co
+thisis-images.scdn.co
+lineup-images.scdn.co
+merch-img.scdn.co
+mosaic.scdn.co
+heads-fa.scdn.co
+audio-fa.scdn.co
+i.scdn.co
+o.scdn.co
+t.scdn.co
+
+#access points white-list
+#g***-accesspoint-e-****.ap.spotify.com
+gew1-accesspoint-e-j77g.ap.spotify.com    #zero use
+gew1-accesspoint-e-c43f.ap.spotify.com    #zero use
+gew1-accesspoint-e-gzvw.ap.spotify.com    #some use
